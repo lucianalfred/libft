@@ -1,7 +1,3 @@
-# libft
-libft project from 42 school.
-
-
 # 📚 Libft - Biblioteca Padrão Personalizada
 
 Bem-vindo ao repositório do **Libft**, um projeto desenvolvido como parte do currículo da **Escola 42**. O objetivo deste projeto é recriar funções da biblioteca padrão do C, proporcionando um melhor entendimento do funcionamento interno dessas funções.
